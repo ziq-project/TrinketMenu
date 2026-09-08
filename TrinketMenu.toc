@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: TrinketMenu - Fix
+## Title: TrinketMenu |cff7fff7f - Project Legacy|r
 ## Author: Gello, Torio | a Project Legacy fork by ziq
 ## Notes: AddOn to manage trinkets, fix by Ogrisch
 ## SavedVariables: TrinketMenuOptions
